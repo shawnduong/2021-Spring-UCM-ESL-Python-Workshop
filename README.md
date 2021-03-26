@@ -10,3 +10,8 @@ The following flyer was created by Engineering Service Learning. All times are i
 
 ![](./img/flyer.png)
 
+## Workshop Instructions
+
+Please click on a workshop to go to the instructions associated with the workshop.
+
+[Workshop 1: Automate Work Tasks](https://github.com/shawnduong/2021-UCM-ESL-Python-Workshop/blob/main/Workshop_1/README.md)
