@@ -43,6 +43,6 @@ B: While the list of people is not empty, continue. Else, go to step C.
 
 6. After you're done, **reflect** with your group.
 
-7. If you're feeling courageous, feel free to have a look into `assembledProgram.py` if you want to see the code you created. It's important to become comfortable reading code and seeing how *our logic* translates to *source code.*
+7. If you're feeling courageous, feel free to have a look into `assembled_program.py` if you want to see the code you created. It's important to become comfortable reading code and seeing how *our logic* translates to *source code.*
 
 8. Thanks for attending! You may leave the workshop whenever you'd like. We hope you learned something new and we hope to see you again next week!
