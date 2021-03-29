@@ -1,0 +1,21 @@
+html {
+	margin: 5% 10% 5% 10%;;
+}
+
+#directory {
+	border-collapse: collapse;
+}
+
+#directory th {
+	border: 1px solid black;
+	width: 512px;
+}
+
+#directory tr:nth-child(even) {
+	background-color: lightgrey;
+}
+
+#directory td {
+	border: 1px solid black;
+}
+

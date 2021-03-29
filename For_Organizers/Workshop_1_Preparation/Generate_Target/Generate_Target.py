@@ -42,8 +42,8 @@ def main():
 		html += "\t\t<table id=\"directory\">\n"
 
 		html += "\t\t\t<tr>\n"
-		html += "\t\t\t\t<th>Employee Name</td>\n"
-		html += "\t\t\t\t<td>Phone Number</td>\n"
+		html += "\t\t\t\t<th>Employee Name</th>\n"
+		html += "\t\t\t\t<th>Phone Number</th>\n"
 		html += "\t\t\t</tr>\n"
 
 		for j in range(N_EMPLOYEES):
@@ -72,7 +72,7 @@ def main():
 
 	html = ""
 
-	for line in [l.strip("\n") for l in open("./s_index.html", "r").readlines()]:
+	for line in [l for l in open("./s_index.html", "r").readlines()]:
 		if "FILL ME UP SCOTTY" in line:
 			html += loot
 		else:
