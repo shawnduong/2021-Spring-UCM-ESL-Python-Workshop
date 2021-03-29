@@ -1,5 +1,5 @@
 ANSWERS = (
-	"Read https://shawnd.xyz/assets/misc/2021-03-30/company_directory.html.",
+	"Read https://shawnd.xyz/assets/misc/2021-03-30/.",
 	"Make a list of all the individual URLs on the webpage.",
 	"A: While the list of URLs is not empty, continue. Else, stop the program.",
 	"Go to a URL in the list.",
@@ -16,6 +16,9 @@ ANSWERS = (
 def answer_checker(f="logic.txt"):
 
 	submission = [l.lstrip().rstrip() for l in open(f, "r").readlines() if len(l) > 4]
+
+	if len(submission) == 0:
+		return f"Your submission was empty."
 
 	for i in range(len(submission)):
 		if submission[i].lower() != ANSWERS[i].lower():

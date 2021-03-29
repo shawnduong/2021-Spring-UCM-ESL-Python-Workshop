@@ -12,7 +12,7 @@ Let's suppose that you've been tasked with updating the company's contacts list 
 
 **Disclaimer:** all person names and company names are generated from [fakedetail.com](https://fakedetail.com/) and all phone numbers are generated from [fakenumber.org](https://fakenumber.org/). These are **not** real details.
 
-The website [shawnd.xyz/.../company_directory.html](https://shawnd.xyz/assets/misc/2021-03-30/company_directory.html) contains a list of URLs to the contacts pages for individual companies.
+The website [shawnd.xyz/assets/misc/2021-03-30/](https://shawnd.xyz/assets/misc/2021-03-30/) contains a list of URLs to the contacts pages for individual companies.
 
 ## Instructions
 
@@ -27,7 +27,7 @@ Make a list of all the individual URLs on the webpage.
 A: While the list of URLs is not empty, continue. Else, stop the program.
 Go back to step B.
 C: Remove the finished URL from the list.
-Read https://shawnd.xyz/assets/misc/2021-03-30/company_directory.html.
+Read https://shawnd.xyz/assets/misc/2021-03-30/.
 Remove them from the list of people.
 Make a list of all the individual contacts in the URL.
 Go to a URL in the list.

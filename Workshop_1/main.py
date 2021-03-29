@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import time
+
 from answer_checker import *
 from assembled_program import *
 
