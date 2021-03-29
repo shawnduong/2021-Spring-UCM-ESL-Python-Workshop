@@ -60,7 +60,7 @@ B: While the list of people is not empty, continue. Else, go to step C.
 
 ![](../img/pic_02.png)
 
-3. Select "Import from GitHub", paste in `https://github.com/shawnduong/2021-UCM-ESL-Python-Workshop` (this will automatically format to `shawnduong/2021-UCM-ESL-Python-Workshop), and then click "Import from github."
+3. Select "Import from GitHub", paste in `https://github.com/shawnduong/2021-UCM-ESL-Python-Workshop` (this will automatically format to `shawnduong/2021-UCM-ESL-Python-Workshop`), and then click "Import from github."
 
 ![](../img/pic_03.png)
 
@@ -72,7 +72,7 @@ B: While the list of people is not empty, continue. Else, go to step C.
 
 ![](../img/pic_05.png)
 
-6. Expand the "Workshop_1" directory on the left and then select `README.md`. You now have a copy of these instructions conveniently in your environment so that you don't have to constantly switch windows or tabs!
+6. Expand the `Workshop_1` directory on the left and then select `README.md`. You now have a copy of these instructions conveniently in your environment so that you don't have to constantly switch windows or tabs!
 
 ![](../img/pic_06.png)
 
@@ -84,7 +84,7 @@ B: While the list of people is not empty, continue. Else, go to step C.
 
 ![](../img/pic_08.png)
 
-9. You can view the raw **output** of your assembled program by expanding the "Workshop_1" directory and selecting "contacts.csv."
+9. You can view the raw **output** of your assembled program by expanding the `Workshop_1` directory and selecting `contacts.csv`.
 
 ![](../img/pic_09.png)
 
