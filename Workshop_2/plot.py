@@ -26,7 +26,7 @@ def graph():
 	# | Plot x, y
 	# | Let the plot x label be the string "Month"
 	# | Let the plot y label be the string "Total Precipitation"
-	# | Let the plot title be the string "Total Precipitation per Month in 2018"
+	# | Let the plot title be the string "Total Precipitation per Month in 2020"
 	# | Show the plot.
 	# |
 	# -- Your code should be written below this line. -- #
