@@ -14,5 +14,6 @@ The following flyer was created by Engineering Service Learning. All times are i
 
 Please click on a workshop to go to the instructions associated with the workshop.
 
-[Workshop 1: Automate Work Tasks](https://github.com/shawnduong/2021-UCM-ESL-Python-Workshop/blob/main/Workshop_1/README.md) \\
-[Workshop 2: Generate a Line Graph](https://github.com/shawnduong/2021-UCM-ESL-Python-Workshop/blob/main/Workshop_2/README.md)
+- [Workshop 1: Automate Work Tasks](https://github.com/shawnduong/2021-UCM-ESL-Python-Workshop/blob/main/Workshop_1/README.md)
+- [Workshop 2: Generate a Line Graph](https://github.com/shawnduong/2021-UCM-ESL-Python-Workshop/blob/main/Workshop_2/README.md)
+- [Workshop 3: Creating a Port Scanner](https://github.com/shawnduong/2021-UCM-ESL-Python-Workshop/blob/main/Workshop_3/README.md)
